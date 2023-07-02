@@ -13,6 +13,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de GeoP
 > Código: Todo el código se encuentra en la raiz de este repositorio de Github
 
 * [Lección 1 - Introducción a la teledetección: qué es y cómo funciona en Python](https://youtu.be/TuIEF9gcMfI)
+* [Lección 2 - Análisis de imágenes satelitales con Python: ¡domina la combinación de bandas!](https://youtu.be/i9-ZMUrQ5x0)
 
 ¡Muchísimas gracias por todo el apoyo mostrado!
 
