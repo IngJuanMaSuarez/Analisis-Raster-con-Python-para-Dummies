@@ -14,6 +14,10 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de GeoP
 
 * [Lección 1 - Introducción a la teledetección: qué es y cómo funciona en Python](https://youtu.be/TuIEF9gcMfI)
 * [Lección 2 - Análisis de imágenes satelitales con Python: ¡domina la combinación de bandas!](https://youtu.be/i9-ZMUrQ5x0)
+* [Lección 3 - Clasificación de imágenes satelitales con técnicas de Machine Learning](https://youtu.be/LlawyDKTAMA)
+* [Lección 4 - Cómo realizar clasificación no supervisada en imágenes satelitales con Python](https://youtu.be/yHenmuTVJ2c)
+* [Lección 5 - Cómo Calcular y Utilizar Índices NDVI y MNDWI en Imágenes Satelitales con Python](https://youtu.be/FC0PKoRhjWs)
+* [Lección 6 - Ejercicio Práctico: Análisis de la Tragedia de Armero](https://youtu.be/vcU0vV3ikHA)
 
 ¡Muchísimas gracias por todo el apoyo mostrado!
 
@@ -22,6 +26,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de GeoP
 * [Web oficial de Python](https://www.python.org/)
 * [Web oficial de Numpy](https://numpy.org/)
 * [Web oficial de Matplotlib](https://matplotlib.org/)
+* [Web oficial de Scikit-Learn](https://scikit-learn.org/stable/)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
