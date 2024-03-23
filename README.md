@@ -18,6 +18,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de GeoP
 * [Lección 4 - Cómo realizar clasificación no supervisada en imágenes satelitales con Python](https://youtu.be/yHenmuTVJ2c)
 * [Lección 5 - Cómo Calcular y Utilizar Índices NDVI y MNDWI en Imágenes Satelitales con Python](https://youtu.be/FC0PKoRhjWs)
 * [Lección 6 - Ejercicio Práctico: Análisis de la Tragedia de Armero](https://youtu.be/vcU0vV3ikHA)
+* [Lección 7 - Deep Learning: Clasifica Imágenes Satelitales con TensorFlow y Keras](https://youtu.be/QxEMSzG9-VQ)
 
 ¡Muchísimas gracias por todo el apoyo mostrado!
 
@@ -27,6 +28,7 @@ Curso que agrupa todas las clases que hacen referencia a los fundamentos de GeoP
 * [Web oficial de Numpy](https://numpy.org/)
 * [Web oficial de Matplotlib](https://matplotlib.org/)
 * [Web oficial de Scikit-Learn](https://scikit-learn.org/stable/)
+* [Web oficial de Tensroflow](https://www.tensorflow.org/)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
